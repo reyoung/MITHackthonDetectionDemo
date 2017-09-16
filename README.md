@@ -1,4 +1,4 @@
-# Detection Demo for MIT-Hackaton
+# Detection Demo for MIT-Hackathon
 
 Step 1. Start inference server on a machine which `nvidia-docker` is correctly configured.
 
