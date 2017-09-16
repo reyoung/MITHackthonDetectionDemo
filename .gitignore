@@ -1,3 +1,5 @@
 *.jpg
 *.json
 .idea
+param.tar
+inference_topology.pkl
