@@ -5,7 +5,7 @@ import numpy as np
 import requests
 from PIL import Image
 
-BACKEND_URL = "http://127.0.0.1:9000"
+BACKEND_URL = "http://127.0.0.1:8000"
 
 THRESHOLD = 0.3
 
